@@ -33,10 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Front
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=safwanefdd&show_icons=true&theme=dracula)
-
 ## 📫 How to reach me:
 - **Email**: [YourEmail]  
 - **LinkedIn**: [YourLinkedInURL]  
