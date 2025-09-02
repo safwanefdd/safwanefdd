@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Front
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-
-## 📫 How to reach me:
-- **Email**: [YourEmail]  
-- **LinkedIn**: [YourLinkedInURL]  
-- **Twitter**: [YourTwitterHandle]  
+ 
 
 Feel free to explore my projects and reach out if you want to collaborate!
