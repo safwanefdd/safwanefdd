@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Fulls
 
 ## 🚀 About Me
 
-- 🎓 I'm a young French developer, currently finishing my **Baccalauréat (Maths & NSI)** and joining **ESGI Paris** in September 2026 for a Bachelor in Computer Science.
+- 🎓 I'm a young French developer, currently finishing my **Baccalauréat (Maths & NSI)** and joining **ESGI** in September 2026 for a Bachelor in Computer Science.
 - 🔭 I'm currently working on **[QResto](https://qresto.me)** — a SaaS platform that helps restaurant owners manage their menus digitally via QR codes.
 - 🌐 I also built **[Patati Patata](https://patati-patata.fr)** — a website for a French language teacher.
-- 🌱 I'm always learning — currently deepening my knowledge of **Next.js**, **Supabase**, and **TypeScript**.
+- 🌱 I'm always learning — currently deepening my knowledge of **Next.js**, **Supabase** and **TypeScript**.
 - 💡 I love working with **React, Next.js, Vue, Tailwind CSS, Sass, Node.js, PHP, MySQL** and **Supabase**.
-- 🎮 Outside of coding, I enjoy **esports, gaming (Valorant main 🎯), and building side projects**.
+- 🎮 Outside of coding, I enjoy **esports, gaming, and building side projects**.
 - 💼 My goal: land a **3-year web dev apprenticeship** and keep building things that matter.
 - 🔗 Portfolio: **[safwane.tech](https://safwane.tech)**
 
